@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hypertensive/Hypertensive.iml" filepath="$PROJECT_DIR$/Hypertensive/Hypertensive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visual-model.iml" filepath="$PROJECT_DIR$/Visual-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCloud/WordCloud.iml" filepath="$PROJECT_DIR$/WordCloud/WordCloud.iml" />
+    </modules>
+  </component>
+</project>
